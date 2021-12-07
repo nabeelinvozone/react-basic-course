@@ -1,0 +1,27 @@
+#root {
+  background: b7b4b4;
+}
+.card {
+  background: #edebeb;
+  width: 30%;
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin: 5px;
+}
+.card h2 {
+  margin: 17px 16px;
+}
+.actions {
+  text-align: right;
+  margin: 9px;
+}
+
+.actions button {
+  padding: 5px;
+  font-size: 13px;
+  font-weight: bold;
+  background: #893737;
+  color: white;
+  width: 80px;
+  border-radius: 5px;
+}
